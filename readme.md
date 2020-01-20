@@ -1,4 +1,5 @@
 1. Install library for QT5
+
 sudo apt-get install libxkbcommon-dev
 sudo apt-get install libxcb1-dev
 sudo apt-get install libx11-xcb-dev
@@ -14,6 +15,7 @@ sudo apt-get install libxcb-randr0-dev
 sudo apt-get install libxcb-render-util0-dev
 
 2. Install cross compiler
+
 sudo apt-get install libc6-armel-cross libc6-dev-armel-cross
 sudo apt-get install binutils-arm-linux-gnueabihf
 sudo apt-get install libncurses5-dev
